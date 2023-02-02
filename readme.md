@@ -1,12 +1,13 @@
-# Horizontal Gallery WebGL
+# Moonrise Horizontal Gallery
 
 📝 Made for practice
 
 ## Setup
+
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
-``` bash
+```bash
 # Install dependencies (only the first time)
 npm install
 

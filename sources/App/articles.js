@@ -1,38 +1,38 @@
 export default [
   {
-    title: "Article 0",
-    image: "/assets/example-0.webp"
+    title: "Nayeon",
+    image: "/assets/nayeon.jpeg"
   },
   {
-    title: "Article 1",
-    image: "/assets/example-1.webp"
+    title: "Jeongyeon",
+    image: "/assets/jeoengyeon.jpeg"
   },
   {
-    title: "Article 2",
-    image: "/assets/example-2.webp"
+    title: "Momo",
+    image: "/assets/momo.jpeg"
   },
   {
-    title: "Article 3",
-    image: "/assets/example-3.webp"
+    title: "Sana",
+    image: "/assets/sana.jpeg"
   },
   {
-    title: "Article 4",
-    image: "/assets/example-4.webp"
+    title: "Mina",
+    image: "/assets/mina.jpeg"
   },
   {
-    title: "Article 5",
-    image: "/assets/example-5.webp"
+    title: "Jihyo",
+    image: "/assets/jihyo.jpeg"
   },
   {
-    title: "Article 6",
-    image: "/assets/example-6.webp"
+    title: "Dahyun",
+    image: "/assets/dahyun.jpeg"
   },
   {
-    title: "Article 7",
-    image: "/assets/example-7.webp"
+    title: "Chaeyoung",
+    image: "/assets/chae.jpeg"
   },
   {
-    title: "Article 8",
-    image: "/assets/example-8.webp"
+    title: "Tyuzu",
+    image: "/assets/tzuyu.jpeg"
   }
 ];
